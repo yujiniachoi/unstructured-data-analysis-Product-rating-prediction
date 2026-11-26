@@ -1,2 +1,11 @@
 # Large data zip (>100MB) — too big for GitHub commit/push
 shoe_absa_20261123_094430.zip
+
+# Presentation draft — do not commit to the repo
+*.pptx
+
+# Experiment raw data artifacts (unzipped result outputs) — do not commit
+results_shoe_absa_*/
+
+# Compacted experiment-1 results bundle (already tracked in history; keep out going forward)
+results_*.zip

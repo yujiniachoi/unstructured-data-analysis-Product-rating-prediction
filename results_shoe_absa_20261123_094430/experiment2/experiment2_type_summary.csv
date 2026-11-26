@@ -1,6 +1,0 @@
-review_type,n_reviews,rating_mean,rating_std,rating_entropy,mae_Linear regression,mae_Random forest,same_vector_std,levene_p_vs_mixed
-mixed,5820,3.384,1.381,2.261,1.075,1.049,1.256,
-single_pos,27977,4.56,0.899,1.234,0.618,0.611,0.839,0.0
-single_neg,13690,2.528,1.388,2.228,1.116,1.062,1.263,0.038
-neutral_only,1783,3.342,1.597,2.174,1.177,1.103,1.338,
-no_aspect,46130,4.15,1.343,1.649,1.092,1.078,1.343,
